@@ -1,4 +1,4 @@
 my list files:
-- week 1:
+- Example 1: Linear Regression
 - week 2:
 - week 3:
