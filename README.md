@@ -1,5 +1,5 @@
 # Basic Machine Learning/AI - Coursera
-Basic Machine Learning for Everyone
+Basic Machine Learning
 
 All codes were written by Matlab/Octave
 - Example 1: Linear Regression
