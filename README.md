@@ -1,5 +1,6 @@
 # Basic Machine Learning/AI - Coursera
 Basic Machine Learning
+
 This course was taught by Prof. Andrew Ng, Stanford University.
 All codes were written by Matlab/Octave
 - Example 1: Linear Regression
